@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WeatherMoreDetail should render details of one day of forecast 1`] = `<View />`;
